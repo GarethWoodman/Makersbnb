@@ -2,6 +2,8 @@
 
 Air B'n'B on an INTERGALACTIC scale. Our users take advantage of our state of the art web app to book short term accomodation in locations around the universe. From Saturn to Pluto, from the centre of the Andromeda nebula to the ends of the Milky Way, Spaced Out is where its at for your non-terrestrial travel needs!
 
+[Live site](https://spacedout-makers-bnb.herokuapp.com)
+
 ## Spec
 
 - Any signed-up user can list a new space.
